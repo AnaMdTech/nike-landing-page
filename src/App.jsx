@@ -35,7 +35,7 @@ const App = () => {
         <SpecialOffer />
       </section>
 
-      <section>
+      <section className="bg-pale-blue padding">
         <CustomerReviews />
       </section>
 
