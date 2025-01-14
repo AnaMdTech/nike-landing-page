@@ -1,4 +1,4 @@
-import Button from "../components/Button";
+import { Button } from "../components";
 import { arrowRight } from "../assets/icons";
 
 const Subscribe = () => {
