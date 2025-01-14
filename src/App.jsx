@@ -23,7 +23,7 @@ const App = () => {
         <PopularProducts />
       </section>
 
-      <section>
+      <section className="padding">
         <SuperQuality />
       </section>
 
