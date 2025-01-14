@@ -27,7 +27,7 @@ const App = () => {
         <SuperQuality />
       </section>
 
-      <section>
+      <section className="padding-x py-10">
         <Services />
       </section>
 
