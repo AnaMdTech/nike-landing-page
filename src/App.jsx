@@ -31,7 +31,7 @@ const App = () => {
         <Services />
       </section>
 
-      <section>
+      <section className="padding">
         <SpecialOffer />
       </section>
 
