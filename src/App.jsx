@@ -19,7 +19,7 @@ const App = () => {
         <Hero />
       </section>
 
-      <section>
+      <section className="padding">
         <PopularProducts />
       </section>
 
